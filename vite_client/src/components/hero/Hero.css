@@ -1,0 +1,18 @@
+.hero-main-div{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.piechart-main-div{
+    display: flex;
+    /* background-color: aqua; */
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 0;
+}
+
+.piechart-main-div p{
+    font-size: 32px;
+    margin-bottom: 20px;
+}
